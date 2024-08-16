@@ -1,4 +1,3 @@
-console.log("teste")
 function buscarImagem(){
     return fetch ("https://randomfox.ca/floof/?ref=public_apis",{
         method: 'get'
